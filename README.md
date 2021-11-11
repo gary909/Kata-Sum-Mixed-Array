@@ -1,5 +1,5 @@
 # Kata-Sum-Mixed-Array
 
-![screen image](pic.png)
+![screen image](pic1.png)
 
-![code image](code.png)
+![code image](code1.png)
